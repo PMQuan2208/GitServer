@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "689262279982",
+    "firebase_url": "https://healthcare-a95b1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "healthcare-a95b1",
+    "storage_bucket": "healthcare-a95b1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689262279982:android:030e31f2dc12c736e14ebf",
+        "android_client_info": {
+          "package_name": "com.cmc.HealthCare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0fBnGkA4SBY2ghYln4Y44h3IC6JI2f1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
